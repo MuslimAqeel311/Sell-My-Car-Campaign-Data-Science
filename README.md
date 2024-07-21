@@ -1,17 +1,17 @@
 # Sell My Car Campaign Data Science
 
-This project leverages data science strategies to enhance the outcomes of the "Sell My Car" campaign. By analyzing key metrics such as reach, impressions, click-through rates, and more, this project aims to provide actionable insights for improving campaign performance.
+This project leverages data science strategies to enhance the outcomes of the "Sell My Car" campaign. By analyzing key metrics such as reach, impressions, click-through rates, and Link Clicks, this project aims to provide actionable insights for improving campaign performance.
 
 ## Project Overview
 
-The "Sell My Car" campaign aims to attract potential car sellers and buyers through effective marketing strategies. This project utilizes data science techniques to analyze the campaign's performance and suggest improvements. The primary goals are to increase reach, improve engagement, and optimize conversions.
+The "Sell My Car" campaign aims to attract potential car sellers and buyers through effective marketing strategies. This project utilizes data science techniques to analyze the campaign's performance and suggest improvements. The primary goals are to increase reach, improve engagement, Increase Link Clicks and optimize conversions.
 
 ## Key Features
 
 - **Data Analysis:** In-depth analysis of campaign data, including reach, impressions, clicks, conversions, and other relevant metrics.
 - **Visualization:** Visual representation of data to identify trends and patterns.
 - **Insights:** Actionable insights derived from data analysis to enhance campaign effectiveness.
-- **Machine Learning:** Application of machine learning models to predict and improve campaign outcomes.
+- **Machine Learning:** Application of machine learning models (Random Forest Regressor) to predict and improve campaign outcomes.
 
 ## Jupyter Notebook
 
